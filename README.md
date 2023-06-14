@@ -1,6 +1,6 @@
 # Project Title
 
-Assigment as a reruitment process
+Assigment as a part of reruitment process
 
 ## Description
 
